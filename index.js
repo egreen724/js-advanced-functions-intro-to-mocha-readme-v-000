@@ -5,4 +5,3 @@ function theTruth {
 function sayHey {
   return 'Hey!';
 }
-
